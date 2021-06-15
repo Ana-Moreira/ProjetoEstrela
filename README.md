@@ -8,3 +8,4 @@ Esta puxando as 4 imagens e nomes aleatorias da API, onde sempre muda apos clica
 Botão atualiza a pagina, funcionando perfeitamente tbm.
 
 
+Link do projeto:http://rick-morty-s.surge.sh/
